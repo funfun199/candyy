@@ -1,0 +1,10 @@
+{
+    "packageUrl": "https://jouncaro.net/m/",
+    "searchPaths": [],
+    "assets": {
+    },
+    "remoteVersionUrl": "http://jouncaro.net/m/version.manifest",
+    "version": "1.0.0",
+    "engineVersion": "3.17",
+    "remoteManifestUrl": "http://jouncaro.net/m/project.manifest"
+}
