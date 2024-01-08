@@ -3,8 +3,8 @@
     "searchPaths": [],
     "assets": {
     },
-    "remoteVersionUrl": "http://jouncaro.net/m/version.manifest",
+    "remoteVersionUrl": "http://jouncaro.net/m/version.manifest?v=1.0.1",
     "version": "1.0.0",
     "engineVersion": "3.17",
-    "remoteManifestUrl": "http://jouncaro.net/m/project.manifest"
+    "remoteManifestUrl": "http://jouncaro.net/m/project.manifest?v=1.0.1"
 }
